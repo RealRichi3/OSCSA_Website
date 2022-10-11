@@ -1118,3 +1118,12 @@ section {
 #contact img {
   padding: 20px
 }
+
+#about #openlicense-illustration {
+  display: grid;
+  grid-template-rows: 3fr 1fr;
+  max-height: fit-content;
+}
+#about iframe #image-illustration {
+  height: 400px;
+}
